@@ -1,0 +1,11 @@
+License Web Example
+---------------------------
+
+The LicenseWebExample demonstrates the use to license-generation project in use. 
+To run the example web application please follow the below steps
+
+  1. Clone the project from git hub and open it using netbeans
+  2. Deploy the LicenseWebExample.war in tomcat
+  3. Type the URL http://localhost:8080/LicenseWebExample/uploadLicense.jsp
+  4. Upload a generated license file license.lic
+  5. Test the app by logging in using username sample and password password
